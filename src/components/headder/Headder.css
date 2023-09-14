@@ -1,0 +1,11 @@
+ul li {
+  display: inline;
+  padding: 5px;
+  margin: 2px;
+  border-radius: 5px;
+  margin-left: 10px;
+}
+
+ul {
+  display: inline;
+}
